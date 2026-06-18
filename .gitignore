@@ -1,1 +1,6 @@
 .vercel
+node_modules
+package.json
+package-lock.json
+_shot.js
+shot-*.png
